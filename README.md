@@ -1,3 +1,5 @@
+https://us05web.zoom.us/j/83991609583?pwd=stQ7ZZ6Zxm5ItoFpma66jrbyKBO06z.1
+
 Question: Orchestration API to load data from the external dataset into local in-memory DB, and
 then provide REST endpoints to fetch the users based upon various user criteria.
 Category: Backend API
